@@ -1,0 +1,24 @@
+.Chatbox {
+  /* border: 2px solid green; */
+  background-image: url(../../Assets/mainBg.jpg);
+  background-repeat: no-repeat;
+  /* background-position: 0 0; */
+  background-size: cover;
+  height: 100vh;
+  width: 58%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* padding: 0px auto; */
+  border: 1px solid rgb(141, 141, 141);
+}
+
+.alert {
+  width: 40%;
+  margin: auto;
+  border-radius: 100px;
+  background-color: rgba(94, 94, 94, 0.4);
+  color: white;
+  text-align: center;
+  border: none;
+}
